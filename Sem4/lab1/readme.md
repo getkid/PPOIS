@@ -30,6 +30,7 @@
 Программа успешно прошла unit-тестирование:
 
 
+![image](https://github.com/getkid/PPOIS/assets/115876128/b357320d-ff79-4bed-9f04-79bf1e8d0fa7)
 
 
 
